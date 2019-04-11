@@ -7,5 +7,6 @@
 
   <ItemGroup>
     <Compile Remove="Startup.cs" />
+    <Compile Remove="Learning\Program.cs" />
   </ItemGroup>
 </Project>
